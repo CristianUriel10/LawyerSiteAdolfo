@@ -9861,7 +9861,7 @@ h4, h5, h6 {
   opacity: 1;
 }
 
-.testimonial-text::after {
+.TESTIMONIOS-text::after {
   position: absolute;
   content: "";
   width: 0;
@@ -9873,14 +9873,14 @@ h4, h5, h6 {
   z-index: 1;
 }
 
-.testimonial-carousel .owl-dots {
+.TESTIMONIOS-carousel .owl-dots {
   position: absolute;
   width: 100%;
   top: -50px;
   text-align: center;
 }
 
-.testimonial-carousel .owl-dot {
+.TESTIMONIOS-carousel .owl-dot {
   position: relative;
   display: inline-block;
   margin: 0 8px;
@@ -9890,7 +9890,7 @@ h4, h5, h6 {
   background: #B49C73;
 }
 
-.testimonial-carousel .owl-dot::after {
+.TESTIMONIOS-carousel .owl-dot::after {
   position: absolute;
   content: "";
   top: -5px;
@@ -9901,7 +9901,7 @@ h4, h5, h6 {
   border-radius: 20px;
 }
 
-.testimonial-carousel .owl-dot.active {
+.TESTIMONIOS-carousel .owl-dot.active {
   background: #343a40;
 }
 
